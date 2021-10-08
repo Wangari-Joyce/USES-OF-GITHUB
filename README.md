@@ -11,7 +11,10 @@ GitHub is web-based graphical user interface platform that host services for git
 2. it allows one to document their code.
 3. You can use it to plan trips and or events
 4. Create a CV 
-5. Work collaboratively on a project or projects
+5. it allows one to document their code
+6. it allows users to track changes to their documents
+7. It allows easy code reproducibilty.
+8. It tracks changes made to a project
 
 
 
