@@ -9,6 +9,8 @@ GitHub is web-based graphical user interface platform that host services for git
 ## Here are some of the uses of GitHub:
 1. it allows different people to collaborate on projects
 2. it allows one to document their code.
+3. It allows easy code reproducibilty.
+4. It tracks changes made to a project
 
 
 
